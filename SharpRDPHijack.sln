@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpRDPHijack", "SharpRDPHijack\SharpRDPHijack.csproj", "{A17F93F3-4AB7-4ED6-9C82-208B38E70B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17F93F3-4AB7-4ED6-9C82-208B38E70B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17F93F3-4AB7-4ED6-9C82-208B38E70B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17F93F3-4AB7-4ED6-9C82-208B38E70B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17F93F3-4AB7-4ED6-9C82-208B38E70B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C577D00E-2584-4923-A637-63ACC1065171}
+	EndGlobalSection
+EndGlobal
